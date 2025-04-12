@@ -22,6 +22,11 @@ A deep learning model that predicts graduate admission chances at UCLA based on 
   - Data normalization and preprocessing
   - Feed-forward neural network architecture
   - Multiple performance metrics evaluation
+ 
+ ## 🌐 Web Application
+
+Check out the deployed application to predict graduate admission chances:
+(https://neural-network-myn4lrfyiijv2kgs3dp5d7.streamlit.app/)
 
 ## 📂 Dataset
 
